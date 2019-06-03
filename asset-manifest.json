@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/wiskeybar/TakeABreath/static/css/main.b33cfeb3.chunk.css",
-    "main.js": "/wiskeybar/TakeABreath/static/js/main.dcc975ad.chunk.js",
-    "main.js.map": "/wiskeybar/TakeABreath/static/js/main.dcc975ad.chunk.js.map",
-    "runtime~main.js": "/wiskeybar/TakeABreath/static/js/runtime~main.aa002440.js",
-    "runtime~main.js.map": "/wiskeybar/TakeABreath/static/js/runtime~main.aa002440.js.map",
-    "static/js/2.2b91e2f1.chunk.js": "/wiskeybar/TakeABreath/static/js/2.2b91e2f1.chunk.js",
-    "static/js/2.2b91e2f1.chunk.js.map": "/wiskeybar/TakeABreath/static/js/2.2b91e2f1.chunk.js.map",
-    "index.html": "/wiskeybar/TakeABreath/index.html",
-    "precache-manifest.d7379f805554bd1f037a40cb3b56fb65.js": "/wiskeybar/TakeABreath/precache-manifest.d7379f805554bd1f037a40cb3b56fb65.js",
-    "service-worker.js": "/wiskeybar/TakeABreath/service-worker.js",
-    "static/css/main.b33cfeb3.chunk.css.map": "/wiskeybar/TakeABreath/static/css/main.b33cfeb3.chunk.css.map",
-    "static/media/AirlyBlue.png": "/wiskeybar/TakeABreath/static/media/AirlyBlue.198d14d3.png",
-    "static/media/Loader.svg": "/wiskeybar/TakeABreath/static/media/Loader.7aa6373b.svg"
+    "main.css": "/TakeABreath/static/css/main.b33cfeb3.chunk.css",
+    "main.js": "/TakeABreath/static/js/main.dcc975ad.chunk.js",
+    "main.js.map": "/TakeABreath/static/js/main.dcc975ad.chunk.js.map",
+    "runtime~main.js": "/TakeABreath/static/js/runtime~main.227a7a96.js",
+    "runtime~main.js.map": "/TakeABreath/static/js/runtime~main.227a7a96.js.map",
+    "static/js/2.2b91e2f1.chunk.js": "/TakeABreath/static/js/2.2b91e2f1.chunk.js",
+    "static/js/2.2b91e2f1.chunk.js.map": "/TakeABreath/static/js/2.2b91e2f1.chunk.js.map",
+    "index.html": "/TakeABreath/index.html",
+    "precache-manifest.0ffaa98d5c4b0840d876c5b29bda8de4.js": "/TakeABreath/precache-manifest.0ffaa98d5c4b0840d876c5b29bda8de4.js",
+    "service-worker.js": "/TakeABreath/service-worker.js",
+    "static/css/main.b33cfeb3.chunk.css.map": "/TakeABreath/static/css/main.b33cfeb3.chunk.css.map",
+    "static/media/AirlyBlue.png": "/TakeABreath/static/media/AirlyBlue.198d14d3.png",
+    "static/media/Loader.svg": "/TakeABreath/static/media/Loader.7aa6373b.svg"
   }
 }
